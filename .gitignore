@@ -1,4 +1,4 @@
-﻿# --- dsh-auto-ignore: build artifacts & oversized files ---
+# --- dsh-auto-ignore: build artifacts & oversized files ---
 node_modules/
 build/
 dist/
@@ -18,3 +18,36 @@ venv/
 *.uvguix.*
 *.egg-info/
 
+# ==== dsh 统一忽略（2026-11-18 整理）====
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+dist-electron/
+out/
+target/
+Debug/
+Release/
+Objects/
+Listings/
+.pio/
+.vs/
+*.uvguix.*
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+tmp/
+*.bak
+*.orig
+*.tmp
+~$*
+.history/
+.DS_Store
+Thumbs.db
+desktop.ini

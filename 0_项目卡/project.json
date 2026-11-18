@@ -1,0 +1,11 @@
+﻿{
+    "schemaVersion":  1,
+    "name":  "GIM6010",
+    "template":  "existing",
+    "domains":  [
+                    "software"
+                ],
+    "stage":  "现有",
+    "migratedFrom":  "Project\\github\\GIM6010",
+    "createdAt":  "2026-11-01T18:59:36.2711853+08:00"
+}
